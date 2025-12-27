@@ -12,8 +12,6 @@ import java.time.Duration;
 
 public class AccountRegistrationPage extends BasePage {
 
-
-
     public AccountRegistrationPage(WebDriver driver) {
         super(driver);
     }
